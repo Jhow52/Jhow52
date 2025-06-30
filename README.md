@@ -41,10 +41,11 @@ Meu foco é contribuir com soluções **eficientes** e **criativas** para os pro
 
 ## 👽GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jhow52&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow52&layout=compact&theme=dracula&border_color=30A3DC&title_color=E94D5F&text_color=ffffff&bg_color=000000)
+
 
 ## 🤖Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhow52&repo=ApuracaoDeVotos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jhow52/ApuracaoDeVotos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhow52&repo=Lista-De-Jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jhow52/Lista-De-Jogos)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhow52&repo=InventarioDeItens&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jhow52/InventarioDeItens)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhow52&repo=BancoPOO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Jhow52/BancoPOO)
